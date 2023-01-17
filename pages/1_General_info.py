@@ -101,7 +101,7 @@ with tab2:
     st.image('Carcinoma_inflamatorio.jpg')
 
 with tab3:
-    st.subheader("Carcinoma lobulillar “in situ” (CLIS)")
+    st.subheader('Carcinoma lobulillar “in situ” (CLIS)')
     #Texto
     st.write("se debe al crecimiento celular anómalo de una o varias áreas del lobulillo. Su presencia indica que existe un mayor riesgo de que esa persona desarrolle un cáncer de mama invasivo más adelante,"
     "que puede o no desarrollarse a partir de las zonas originales del carcinoma lobulillar in situ. El carcinoma lobulillar in situ se diagnostica generalmente antes de la menopausia, más frecuentemente entre los 40 y 50 años de edad.")
@@ -113,7 +113,7 @@ with tab4:
     st.subheader("La enfermedad de Paget de la mama")
     st.write("Enfermedad de Paget mamaria aparece con más frecuencia después de los 50 años. La mayoría de las personas con este diagnóstico también tienen cáncer mamario ductal subyacente, ya sea in situ (en el lugar inicial) o, menos común, cáncer mamario invasivo. Pocas veces, la enfermedad de Paget mamaria se encuentra solo en el pezón.")
     # Inmagen
-    st.image("mamaria_paguet.jpg")
+    st.image('mamaria_paguet.jpg')
     pass
 
 
