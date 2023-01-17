@@ -101,7 +101,7 @@ with tab2:
     st.image('Carcinoma_inflamatorio.jpg')
 
 with tab3:
-    st.subheader('Carcinoma lobulillar “in situ” (CLIS)')
+    st.subheader("Carcinoma lobulillar “in situ” (CLIS)")
     #Texto
     st.write("se debe al crecimiento celular anómalo de una o varias áreas del lobulillo. Su presencia indica que existe un mayor riesgo de que esa persona desarrolle un cáncer de mama invasivo más adelante,"
     "que puede o no desarrollarse a partir de las zonas originales del carcinoma lobulillar in situ. El carcinoma lobulillar in situ se diagnostica generalmente antes de la menopausia, más frecuentemente entre los 40 y 50 años de edad.")
