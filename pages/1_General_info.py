@@ -98,7 +98,7 @@ with tab2:
     "En ocasiones se puede confundir con un proceso infeccioso denominado mastitis.")
     
     #Imagen
-    st.image("Carcinoma_inflamatorio.jpg")
+    st.image('Carcinoma_inflamatorio.jpg')
 
 with tab3:
     st.subheader("Carcinoma lobulillar “in situ” (CLIS)")
@@ -107,7 +107,7 @@ with tab3:
     "que puede o no desarrollarse a partir de las zonas originales del carcinoma lobulillar in situ. El carcinoma lobulillar in situ se diagnostica generalmente antes de la menopausia, más frecuentemente entre los 40 y 50 años de edad.")
 
     # Imagen
-    st.image("carcinoma_lobular.jpg")
+    st.image('carcinoma_lobular.jpg')
     pass
 with tab4:
     st.subheader("La enfermedad de Paget de la mama")
