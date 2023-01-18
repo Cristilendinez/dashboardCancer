@@ -98,7 +98,7 @@ with tab2:
     "En ocasiones se puede confundir con un proceso infeccioso denominado mastitis.")
     
     #Imagen
-    st.image('Carcinoma_inflamatorio.jpg')
+    st.image('carcinoma_inflamatorio.jpg')
 
 with tab3:
     st.subheader("Carcinoma lobulillar “in situ” (CLIS)")
