@@ -37,7 +37,7 @@ st.markdown(
 
     - ✨  Prediccion, sveremos si nuestros algoritmos son capaces de clasificar de forma correcta.
 
-    - 🗺️ Errores o Cambios.
+    
 
     \n  
  
