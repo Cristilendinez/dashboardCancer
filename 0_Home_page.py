@@ -20,7 +20,7 @@ st.image('Cancer_mama.png')
 
 # Main Description
 st.markdown("## 👋 Bienvenido al Análisis de Predicción sobre el Cancer de Mama!")
-st.markdown("Diseñado por Cristina Lendinez y Maria Fernanda Mendoza (https://github.com/menpett)")
+st.markdown("Diseñado por Cristina Lendinez (https://github.com/Cristilendinez) y Maria Fernanda Mendoza (https://github.com/menpett)")
 st.markdown("Esta aplicacion se encuentra en continua mejora, si tienes alguna duda consultanos")
 st.markdown("Si quieres conocer otros ejemplos de otras categoprias diferentes pincha aqui (https://streamlit.io/gallery?category=streamlit-templates)")
 
