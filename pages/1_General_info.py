@@ -39,7 +39,7 @@ def set_background(png_file):
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
 set_background('logo_mariposa_2.jpg')
-st.write("logo cancer mariposa = https://www.freepik.com/premium-vector/breast-cancer-awareness-month-with-butterfly-sign-pink-ribbons-vector-illustration-design-poster_32547604.htm")
+#st.write("logo cancer mariposa = https://www.freepik.com/premium-vector/breast-cancer-awareness-month-with-butterfly-sign-pink-ribbons-vector-illustration-design-poster_32547604.htm")
 
 
 # Imagen
@@ -123,13 +123,13 @@ with tab4:
     pass
 
 
-#st.subheader("Informacion de las imagenes")
+st.subheader("Informacion de las imagenes de los logos")
 #st.write("carcinoma lobular= https://es.wikipedia.org/wiki/Carcinoma_lobulillar_%27in_situ%27")
 #st.write("carcinoma inflamatorio = https://es.wikipedia.org/wiki/Carcinoma_ductal_%27in_situ%27#/media/Archivo:Breast_DCIS_histopathology_(1).jpg")
 #st.write("carcinoma lobulillar= https://www.google.com/search?q=carcinoma+lobulillar&rlz=1C1UEAD_esES1035ES1035&sxsrf=AJOqlzV87tM-VC7CRD5eP2Za-B7fOQBFvw:1674044353679&source=lnms&tbm=isch&sa=X&ved=2ahUKEwix9qeYjdH8AhWkcKQEHf6wAJMQ_AUoAXoECAEQAw&biw=1536&bih=664&dpr=1.25#imgrc=bsnVpu7fR3oTyM")
 #st.write("enfermedad de piaget de la mama= https://www.google.com/search?q=La+enfermedad+de+Paget+de+la+mama+histologia&tbm=isch&ved=2ahUKEwiC36q1jdH8AhWooicCHQ1-Ag0Q2-cCegQIABAA&oq=La+enfermedad+de+Paget+de+la+mama+histologia&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQHlCEBVijFWC9F2gAcAB4AIABvgGIAY0NkgEEMC4xMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=_uPHY4LoIKjFnsEPjfyJaA&bih=664&biw=1536&rlz=1C1UEAD_esES1035ES1035#imgrc=LmKQDPp9ChlPCM")
-#st.write("logo cancer mundo= https://www.sysmex.co.uk/products/life-science/breast-cancer.html")
-#st.write("logo cancer mariposa = https://www.freepik.com/premium-vector/breast-cancer-awareness-month-with-butterfly-sign-pink-ribbons-vector-illustration-design-poster_32547604.htm")
+st.write("logo cancer mundo= https://www.sysmex.co.uk/products/life-science/breast-cancer.html")
+st.write("logo cancer mariposa = https://www.freepik.com/premium-vector/breast-cancer-awareness-month-with-butterfly-sign-pink-ribbons-vector-illustration-design-poster_32547604.htm")
 #st.write("imagen hospital= https://www.elnorte.com/aplicacioneslibre/preacceso/articulo/default.aspx?__rval=1&urlredirect=https://www.elnorte.com/hospital-seguro-checa-su-higiene/ar2189732?referer=--7d616165662f3a3a6262623b727a7a7279703b767a783a--")    
 
 
