@@ -83,7 +83,7 @@ tab1, tab2, tab3, tab4= st.tabs(["Carcinoma ductal invasivo(CDI)","Carcinoma inf
 
 with tab1:
     st.subheader("Carcinoma ductal invasivo(CDI)")
-    st.write("Es el tipo más común de cáncer de mama, suponiendo aproximadamente el 80% de los casos. Se desarrolla a partir de células de origen epitelial (carcinoma),"
+    st.write("Es el tipo más común de cáncer de mama, suponiendo aproximadamente el ochenta por ciento de los casos. Se desarrolla a partir de células de origen epitelial (carcinoma),"
     "Al ser un tumor invasivo, tiene la capacidad para diseminarse hacia los ganglios linfáticos y otras zonas del cuerpo."
     "Es el tipo más frecuente de cáncer de mama en los hombres.")
     
