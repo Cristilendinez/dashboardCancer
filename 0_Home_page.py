@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide")
 
 st.image('Cancer_mama.png')
-st.write("logo cancer mundo= https://www.sysmex.co.uk/products/life-science/breast-cancer.html")
+#st.write("logo cancer mundo= https://www.sysmex.co.uk/products/life-science/breast-cancer.html")
 
 # Main Description
 st.markdown("## 👋 Bienvenido al Análisis de Predicción sobre el Cancer de Mama!")
