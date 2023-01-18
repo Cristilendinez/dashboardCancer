@@ -93,7 +93,7 @@ with tab1:
 with tab2:
     st.subheader("Carcinoma inflamatorio de mama")
     # Texto
-    st.write("Es un tipo de cáncer de mama con un comportamiento biológicamente agresivo, pero poco frecuente (menos del 3 % de los casos diagnosticados)."
+    st.write("Es un tipo de cáncer de mama con un comportamiento biológicamente agresivo, pero poco frecuente (menos del 3 por ciento de casos diagnosticados)."
     "Es un tumor de crecimiento rápido, por lo que resulta primordial reconocer estos síntomas para confirmar el diagnóstico e iniciar un tratamiento adecuado lo antes posible."
     "En ocasiones se puede confundir con un proceso infeccioso denominado mastitis.")
     
